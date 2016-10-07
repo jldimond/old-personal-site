@@ -9,7 +9,9 @@ at the [University of Washington's School of Aquatic and Fishery Sciences](https
 
 My background is primarily in the biology and ecology of symbiotic cnidarians, organisms such as sea anemones and corals that live in shallow waters and rely on nutritional contributions from  algal symbionts. In the Roberts Lab, my PhD work evaluates the role of the epigenetic process known as DNA methylation in coral phenotypic plasticity and response to environmental change.
 
-### CV
+---
+
+## CV
 
 JAMES L. DIMOND
 
