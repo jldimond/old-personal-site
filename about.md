@@ -17,8 +17,8 @@ School of Aquatic and Fishery Sciences
 
 **Education**
 
-University of Vermont (Burlington, VT)		Natural Resources	B.S., 2002
-University of Rhode Island (Kingston, RI)	Biological Sciences	M.S., 2006
+University of Vermont (Burlington, VT)   Natural Resources   B.S., 2002
+University of Rhode Island (Kingston, RI)   Biological Sciences   M.S., 2006
 University of Washington (Seattle, WA)		Aquatic & Fishery Sci.	Ph.D. student (2014-present)
 
 **Positions Held**
