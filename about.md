@@ -12,22 +12,31 @@ My background is primarily in the biology and ecology of symbiotic cnidarians, o
 ### CV
 
 JAMES L. DIMOND
+
 University of Washington
+
 School of Aquatic and Fishery Sciences
 
 **Education**
 
 University of Vermont (Burlington, VT)   Natural Resources   B.S., 2002
+
 University of Rhode Island (Kingston, RI)   Biological Sciences   M.S., 2006
+
 University of Washington (Seattle, WA)		Aquatic & Fishery Sci.	Ph.D. student (2014-present)
 
 **Positions Held**
 
 2012-present	Marine Technologist, Shannon Point Marine Center, Western Washington Univ.
+
 2008-2013		Research Technologist, Shannon Point Marine Center, Western Wash. Univ.
+
 2005-2007		Biological Collector, Marine Biological Laboratory, Woods Hole
+
 2003-2005 		Graduate Teaching Assistant, University of Rhode Island
+
 2004 			Research Technician, U.S. EPA National Coastal Assessment, Rhode Island
+
 2002-2003 		Research Assistant, University of Rhode Island
 
 **Publications**
@@ -99,12 +108,18 @@ Shannon Point Marine Center representative at Compass2Campus, an introduction to
 **Teaching**
 
 University of Rhode Island
+
 * BIO 457 Marine Ecology: lab instructor; developed and modified lab exercises 
+
 * BIO 101 Introductory Biology: lab instructor
+
 * BIO 262 Introduction to Ecology: teaching assistant, grading
 
+
 Western Washington University
+
 * ESCI 426 Marine Invertebrates and Their Environment: substitute instructor (2010-2013)
+
 * Instructor of annual (2009-2015) undergraduate workshops on flow cytometry and primary productivity at Shannon Point Marine Center
 
 **Awards**
