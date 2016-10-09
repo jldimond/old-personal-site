@@ -127,15 +127,21 @@ Western Washington University
 **Awards**
 
 2003	American Academy of Underwater Sciences Scholarship
+
 2014	ARCS Foundation Seattle Chapter Fellowship
+
 2014	John E. Halver Fellowship, UW School of Aquatic and Fishery Sciences
+
 2016	International Society for Reef Studies Graduate Fellowship
+
 2016	Hall Conservation Genetics Research Award
 
 **Professional Qualifications**
 
 PADI Divemaster 
+
 AAUS Scientific Diver
+
 USCG Merchant Mariner Credential – 50 Ton Inland Captain’s License
 
 
